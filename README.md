@@ -1,6 +1,5 @@
 # tarea3-procesamiento-spark_Andres-Borda
 Tarea 3 - Procesamiento de Datos con Apache Spark
-# Tarea 3 - Procesamiento de Datos con Apache Spark
 
 Descripción del proyecto
 
